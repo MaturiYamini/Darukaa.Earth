@@ -71,7 +71,7 @@ function Landing() {
           <div className="hero-image-card">
 
             <img
-              src="/src/assets/right-img.png"
+              src="/right-img.png"
               alt="Sustainable Earth"
             />
 
@@ -179,7 +179,7 @@ function Landing() {
         {/* BOTTOM LEFT IMAGE */}
         <div className="about-image">
           <img
-            src="/src/assets/left-img.png"
+            src="/left-img.png"
             alt="Environmental project"
           />
         </div>
